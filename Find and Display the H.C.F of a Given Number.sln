@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29306.81
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Find and Display the H.C.F of a Given Number", "Find and Display the H.C.F of a Given Number\Find and Display the H.C.F of a Given Number.csproj", "{A5AA13C5-6F89-4E53-A23A-93CD613DAC78}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A5AA13C5-6F89-4E53-A23A-93CD613DAC78}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A5AA13C5-6F89-4E53-A23A-93CD613DAC78}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A5AA13C5-6F89-4E53-A23A-93CD613DAC78}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A5AA13C5-6F89-4E53-A23A-93CD613DAC78}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4CC75E58-E88A-411E-ABDC-092964C0F3A4}
+	EndGlobalSection
+EndGlobal

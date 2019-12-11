@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v2.1",
+    "signature": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v2.1": {
+      "Find and Display the H.C.F of a Given Number/1.0.0": {
+        "runtime": {
+          "Find and Display the H.C.F of a Given Number.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Find and Display the H.C.F of a Given Number/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
